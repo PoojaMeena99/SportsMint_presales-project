@@ -5,7 +5,7 @@ body{
 .background-image_one {
     background-image: url("images/Background_1.png");
     background-color: black;
-    height:100vh;
+    height:120vh;
 }
 .background-image_two {
     background-image: url("images/Background_2.png");
@@ -50,7 +50,7 @@ body{
 }
 .dots{
     text-align: center;
-    margin-top: 70px;
+    margin-top: 110px;
     margin-bottom: 30px;
     /* border: 1px solid red; */
 }
