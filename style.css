@@ -1,0 +1,114 @@
+body{
+    padding:0px;
+    margin: 0px;
+}
+.background-image_one {
+    background-image: url("images/Background_1.png");
+    background-color: black;
+    height:100vh;
+}
+.background-image_two {
+    background-image: url("images/Background_2.png");
+    background-color: black;
+    height:160vh;
+}
+.background-image_three {
+    background-image: url("images/Background_2.png");
+    background-color:black;
+    height: 250vh;
+}
+.footer{
+    background-image: url("images/footer_bc.png");
+    background-color: black;
+    height: 40vh;
+}
+.containt{
+    width: 1431px;
+    margin: auto;
+    /* border: 2px solid red; */
+}
+.header{
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    /* border:black 1px solid; */
+} 
+.header_logo{
+    margin-top:30px;
+}
+.header_text{
+    margin-top: 35px;
+}
+.header_wallet{
+    margin-top: 20px;
+}
+.top_header_image{
+    width: 1431px;
+    margin: auto;
+    margin-top: 100px;
+    /* border: 1px solid red; */
+}
+.dots{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    /* border: 1px solid red; */
+}
+.secondpage_title{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.cart_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* border:1px solid black; */
+}
+.cart{
+    height: 365px;
+    /* border:1px solid blue; */
+}
+.presale_tag{
+    text-align: center;
+    margin-top: 110px;
+    /* border: 1px solid red; */
+}
+.discount_card{
+    text-align: center;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+}
+.thirdpage_tittle{
+    text-align: center;
+    padding-top:100px ;
+ /* border: 1px solid red; */    
+}
+.group_discription{
+    text-align: center;
+    margin-top: 60px;
+    /* border: 1px solid red; */ 
+}
+.ourclub_tag{
+    text-align: center;
+    margin-top: 100px;
+/* border: 1px solid red; */ 
+}
+.doller_card{
+    text-align: center;
+    margin-top: 60px;
+    /* border: 1px solid red; */ 
+}
+.faq_tag{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 60px;
+    /* border: 1px solid red; */ 
+}
+.consectetur_table{
+    text-align: center;
+    margin-top: 50px;
+    /* border: 1px solid red; */
+}
+.footer_containt{
+    padding-top:100px;
+}
